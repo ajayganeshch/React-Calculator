@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ***
 
-### 🌐 Website Link: [Visit Site](https://react-basic-calculator.onrender.com/)
+### 🌐 Website Link: <a href="https://react-basic-calculator.onrender.com/" target="_blank">Visit Site</a>
 
 Upload Date : 13-10-2023
 
